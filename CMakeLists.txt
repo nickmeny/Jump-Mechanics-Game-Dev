@@ -15,7 +15,7 @@ FetchContent_Declare(
 
 FetchContent_MakeAvailable(raylib)
 
-add_executable(${PROJECT_NAME} main.c)
+add_executable(${PROJECT_NAME} double_jump.c)
 target_link_libraries(${PROJECT_NAME} PRIVATE raylib)
 
 if (APPLE)

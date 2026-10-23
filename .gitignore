@@ -4,4 +4,4 @@ build-win/
 *.fls
 *.log
 *fdb_latexmk
-double_jump.c
+
