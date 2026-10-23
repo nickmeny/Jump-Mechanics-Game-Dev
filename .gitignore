@@ -1,0 +1,7 @@
+build-linux/
+build-win/
+*aux
+*.fls
+*.log
+*fdb_latexmk
+double_jump.c
